@@ -3,3 +3,6 @@
 
 # Ada Library Information
 *.ali
+body {
+  background-color: #345634;
+  color: red; }
